@@ -1,0 +1,3 @@
+form to enter to word to guess - own component
+wordToGuess - a component
+^-made out of letter components
